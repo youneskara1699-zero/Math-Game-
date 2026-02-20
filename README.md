@@ -39,12 +39,6 @@ Visual Feedback: Screen color changes (green for correct, red for wrong)
 
 Sound Alert: Beep sound for wrong answers
 
-🎯 Difficulty Levels
-Level	Number Range	Example
-Easy	1 - 10	5 + 3 = ?
-Medium	10 - 50	35 - 12 = ?
-Hard	50 - 100	75 × 8 = ?
-Mixed	Random from all	Varies
 💼 Business Value
 Educational Tool: Perfect for learning basic arithmetic
 
