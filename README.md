@@ -40,6 +40,7 @@ Visual Feedback: Screen color changes (green for correct, red for wrong)
 Sound Alert: Beep sound for wrong answers
 
 💼 Business Value
+
 Educational Tool: Perfect for learning basic arithmetic
 
 Skill Assessment: Track progress with scoring system
